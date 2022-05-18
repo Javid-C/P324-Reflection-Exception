@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P324_Reflection_Exception\P324_Reflection_Exception\bin\Debug\netcoreapp3.1\P324_Reflection_Exception.exe
+C:\Users\Lenovo\source\repos\P324_Reflection_Exception\P324_Reflection_Exception\bin\Debug\netcoreapp3.1\P324_Reflection_Exception.deps.json
+C:\Users\Lenovo\source\repos\P324_Reflection_Exception\P324_Reflection_Exception\bin\Debug\netcoreapp3.1\P324_Reflection_Exception.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P324_Reflection_Exception\P324_Reflection_Exception\bin\Debug\netcoreapp3.1\P324_Reflection_Exception.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P324_Reflection_Exception\P324_Reflection_Exception\bin\Debug\netcoreapp3.1\P324_Reflection_Exception.dll
+C:\Users\Lenovo\source\repos\P324_Reflection_Exception\P324_Reflection_Exception\bin\Debug\netcoreapp3.1\P324_Reflection_Exception.pdb
+C:\Users\Lenovo\source\repos\P324_Reflection_Exception\P324_Reflection_Exception\obj\Debug\netcoreapp3.1\P324_Reflection_Exception.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P324_Reflection_Exception\P324_Reflection_Exception\obj\Debug\netcoreapp3.1\P324_Reflection_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P324_Reflection_Exception\P324_Reflection_Exception\obj\Debug\netcoreapp3.1\P324_Reflection_Exception.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P324_Reflection_Exception\P324_Reflection_Exception\obj\Debug\netcoreapp3.1\P324_Reflection_Exception.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P324_Reflection_Exception\P324_Reflection_Exception\obj\Debug\netcoreapp3.1\P324_Reflection_Exception.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P324_Reflection_Exception\P324_Reflection_Exception\obj\Debug\netcoreapp3.1\P324_Reflection_Exception.dll
+C:\Users\Lenovo\source\repos\P324_Reflection_Exception\P324_Reflection_Exception\obj\Debug\netcoreapp3.1\P324_Reflection_Exception.pdb
+C:\Users\Lenovo\source\repos\P324_Reflection_Exception\P324_Reflection_Exception\obj\Debug\netcoreapp3.1\P324_Reflection_Exception.genruntimeconfig.cache
